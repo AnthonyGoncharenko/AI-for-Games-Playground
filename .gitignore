@@ -6,3 +6,5 @@
 *.htm
 *.wiki
 out/
+bin/
+*/.idea/
