@@ -5,644 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4662247d-f128-4024-8c14-48dd01868575" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/Project 3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/java.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/marioAI_1_84.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MarioAI.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/AmiCoPyJava.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/AmiCoPyJava.exp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/AmiCoPyJava.lib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/DemoForwardAgent.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/DemoForwardJumpingAgent.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/DimaAgent.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/Dima_agent.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/agents/Agent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/agents/AgentsPool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/agents/AmiCoAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/agents/BasicLearningAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/agents/LearningAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/agents/MLPESLearningAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/agents/SRNESLearningAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/agents/SimpleAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/agents/controllers/BasicMarioAIAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/agents/controllers/ForwardAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/agents/controllers/ForwardJumpingAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/agents/controllers/RandomAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/agents/controllers/ReplayAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/agents/controllers/ScaredAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/agents/controllers/ScaredShooty.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/agents/controllers/TimingAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/agents/controllers/human/CheaterKeyboardAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/agents/controllers/human/HumanKeyboardAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/agents/learning/LargeMLPAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/agents/learning/LargeSRNAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/agents/learning/MediumMLPAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/agents/learning/MediumSRNAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/agents/learning/SRNAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/agents/learning/SimpleMLPAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/agents/learning/SmallMLPAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/agents/learning/SmallSRNAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/experiments/EpisodicExperiment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/experiments/Experiment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/engine/Art.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/engine/BgRenderer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/engine/GeneralizerEnemies.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/engine/GeneralizerLevelScene.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/engine/GlobalOptions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/engine/LevelRenderer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/engine/LevelScene.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/engine/MarioVisualComponent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/engine/Recorder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/engine/Replayer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/engine/level/BgLevelGenerator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/engine/level/ImprovedNoise.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/engine/level/Level$objCounters.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/engine/level/Level.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/engine/level/LevelGenerator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/engine/level/SpriteTemplate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/engine/mapedit/LevelEditView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/engine/mapedit/LevelEditor$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/engine/mapedit/LevelEditor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/engine/mapedit/TilePicker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/engine/resources/bgsheet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/engine/resources/endscene.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/engine/resources/enemysheet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/engine/resources/firemariosheet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/engine/resources/font.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/engine/resources/itemsheet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/engine/resources/logo.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/engine/resources/mapsheet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/engine/resources/mariosheet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/engine/resources/particlesheet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/engine/resources/princess.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/engine/resources/racoonmariosheet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/engine/resources/smallmariosheet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/engine/resources/test.lvl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/engine/resources/tiles.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/engine/resources/worldmap.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/engine/sprites/BulletBill.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/engine/sprites/CoinAnim.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/engine/sprites/Enemy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/engine/sprites/FireFlower.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/engine/sprites/Fireball.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/engine/sprites/FlowerEnemy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/engine/sprites/GreenMushroom.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/engine/sprites/Mario.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/engine/sprites/Mushroom.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/engine/sprites/Particle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/engine/sprites/Princess.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/engine/sprites/Shell.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/engine/sprites/Sparkle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/engine/sprites/Sprite.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/engine/sprites/SpriteContext.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/engine/sprites/WaveGoomba.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/environments/Environment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/environments/MarioEnvironment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/simulation/AmiCoSimulator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/mario/simulation/SimulationOptions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/tasks/BasicTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/tasks/GamePlayTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/tasks/LearningTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/tasks/MarioCustomSystemOfValues.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/tasks/MarioSystemOfValues$timeLengthMapping.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/tasks/MarioSystemOfValues.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/tasks/MultiDifficultyProgressTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/tasks/MultiSeedProgressTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/tasks/MushroomTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/tasks/ProgressTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/tasks/ReplayTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/tasks/SystemOfValues.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/benchmark/tasks/Task.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/evolution/EA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/evolution/Evolvable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/evolution/FA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/evolution/MLP.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/evolution/SRN.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/evolution/ea/ES.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/scenarios/Custom.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/scenarios/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/scenarios/Play.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/scenarios/Replay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/scenarios/champ/GamePlayTrack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/scenarios/champ/LearningTrack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/scenarios/champ/TuringTestTrack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/scenarios/oldscenarios/CompetitionScore.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/scenarios/oldscenarios/Evolve.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/scenarios/oldscenarios/EvolveIncrementally.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/scenarios/oldscenarios/EvolveMultiSeed.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/scenarios/oldscenarios/GeneralScenario.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/scenarios/oldscenarios/MainRun.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/scenarios/oldscenarios/Stats.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/scenarios/test/EvaluateJLink.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/scenarios/test/EvolveSingle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/scenarios/test/EvolveWithChangingSeeds.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/scenarios/test/PaperEvolve.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/scenarios/test/PaperEvolveBatch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/scenarios/test/PlayJLink.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/scenarios/test/StatsJLink.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/scenarios/test/StochasticityTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/tools/EvaluationInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/tools/EvaluationInfoStatisticalSummary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/tools/Evaluator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/tools/GameViewer$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/tools/GameViewer$GameViewerActions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/tools/GameViewer$GameViewerView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/tools/GameViewer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/tools/MarioAIOptions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/tools/RandomCreatureGenerator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/tools/ReplayerOptions$Interval.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/tools/ReplayerOptions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/tools/Scale2x.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/tools/StateEncoderDecoder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/tools/ToolsConfigurator$INTERFACE_TYPE.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/tools/ToolsConfigurator$ToolsConfiguratorActions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/tools/ToolsConfigurator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/tools/amico/AmiCoJavaPy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/unittests/CmdLineOptionsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/unittests/LevelGeneratorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/unittests/LevelSceneTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/unittests/MarioAIBenchmarkTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/unittests/MarioEnvironmentTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/utils/ErrorCodes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/utils/MathX.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/utils/ParameterContainer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/utils/statistics/StatisticalSummary$Watch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/utils/statistics/StatisticalSummary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/utils/statistics/StatisticalTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/utils/statistics/Stats.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/utils/wox/serial/AccessTest$Sub.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/utils/wox/serial/AccessTest$Super.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/utils/wox/serial/AccessTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/utils/wox/serial/ArrayListTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/utils/wox/serial/Easy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/utils/wox/serial/EasyTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/utils/wox/serial/EncodeBase64.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/utils/wox/serial/ObjectReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/utils/wox/serial/ObjectWriter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/utils/wox/serial/ReadTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/utils/wox/serial/Serial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/utils/wox/serial/ShadowTest$X.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/utils/wox/serial/ShadowTest$Y.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/utils/wox/serial/ShadowTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/utils/wox/serial/SimpleReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/utils/wox/serial/SimpleWriter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/utils/wox/serial/TestObject$Inner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/utils/wox/serial/TestObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/utils/wox/serial/Util.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/ch/idsia/utils/wox/serial/WriterTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/evaluationinfo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/forwardagent.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/forwardjumpingagent.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/AmiCoBuild/PyJava/marioagent.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/agents/Agent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/agents/AgentLoader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/agents/AgentsPool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/agents/AmiCoAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/agents/BasicLearningAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/agents/LearningAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/agents/MLPESLearningAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/agents/SRNESLearningAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/agents/SimpleAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/agents/controllers/BasicMarioAIAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/agents/controllers/ForwardAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/agents/controllers/ForwardJumpingAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/agents/controllers/RandomAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/agents/controllers/ReplayAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/agents/controllers/ScaredAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/agents/controllers/ScaredShooty.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/agents/controllers/TimingAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/agents/controllers/human/CheaterKeyboardAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/agents/controllers/human/HumanKeyboardAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/agents/learning/LargeMLPAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/agents/learning/LargeSRNAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/agents/learning/MediumMLPAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/agents/learning/MediumSRNAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/agents/learning/SRNAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/agents/learning/SimpleMLPAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/agents/learning/SmallMLPAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/agents/learning/SmallSRNAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/experiments/EpisodicExperiment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/experiments/Experiment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/engine/Art.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/engine/BgRenderer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/engine/GeneralizerEnemies.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/engine/GeneralizerLevelScene.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/engine/GlobalOptions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/engine/LevelRenderer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/engine/LevelScene.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/engine/MarioVisualComponent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/engine/Recorder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/engine/Replayer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/engine/level/BgLevelGenerator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/engine/level/ImprovedNoise.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/engine/level/Level$objCounters.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/engine/level/Level.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/engine/level/LevelGenerator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/engine/level/SpriteTemplate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/engine/mapedit/LevelEditView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/engine/mapedit/LevelEditor$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/engine/mapedit/LevelEditor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/engine/mapedit/TilePicker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/engine/resources/bgsheet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/engine/resources/endscene.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/engine/resources/enemysheet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/engine/resources/firemariosheet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/engine/resources/font.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/engine/resources/itemsheet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/engine/resources/logo.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/engine/resources/mapsheet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/engine/resources/mariosheet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/engine/resources/particlesheet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/engine/resources/princess.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/engine/resources/racoonmariosheet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/engine/resources/smallmariosheet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/engine/resources/test.lvl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/engine/resources/tiles.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/engine/resources/worldmap.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/engine/sprites/BulletBill.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/engine/sprites/CoinAnim.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/engine/sprites/Enemy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/engine/sprites/FireFlower.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/engine/sprites/Fireball.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/engine/sprites/FlowerEnemy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/engine/sprites/GreenMushroom.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/engine/sprites/Mario.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/engine/sprites/Mushroom.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/engine/sprites/Particle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/engine/sprites/Princess.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/engine/sprites/Shell.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/engine/sprites/Sparkle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/engine/sprites/Sprite.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/engine/sprites/SpriteContext.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/engine/sprites/WaveGoomba.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/environments/Environment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/environments/MarioEnvironment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/simulation/AmiCoSimulator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/mario/simulation/SimulationOptions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/tasks/BasicTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/tasks/GamePlayTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/tasks/LearningTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/tasks/MarioCustomSystemOfValues.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/tasks/MarioSystemOfValues$timeLengthMapping.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/tasks/MarioSystemOfValues.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/tasks/MultiDifficultyProgressTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/tasks/MultiSeedProgressTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/tasks/MushroomTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/tasks/ProgressTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/tasks/ReplayTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/tasks/SystemOfValues.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/benchmark/tasks/Task.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/evolution/EA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/evolution/Evolvable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/evolution/FA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/evolution/MLP.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/evolution/SRN.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/evolution/ea/ES.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/scenarios/Custom.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/scenarios/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/scenarios/Play.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/scenarios/Replay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/scenarios/champ/GamePlayTrack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/scenarios/champ/LearningTrack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/scenarios/champ/TuringTestTrack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/scenarios/oldscenarios/CompetitionScore.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/scenarios/oldscenarios/Evolve.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/scenarios/oldscenarios/EvolveIncrementally.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/scenarios/oldscenarios/EvolveMultiSeed.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/scenarios/oldscenarios/GeneralScenario.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/scenarios/oldscenarios/MainRun.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/scenarios/oldscenarios/Stats.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/scenarios/test/EvaluateJLink.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/scenarios/test/EvolveSingle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/scenarios/test/EvolveWithChangingSeeds.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/scenarios/test/PaperEvolve.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/scenarios/test/PaperEvolveBatch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/scenarios/test/PlayJLink.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/scenarios/test/StatsJLink.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/scenarios/test/StochasticityTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/tools/EvaluationInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/tools/EvaluationInfoStatisticalSummary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/tools/Evaluator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/tools/GameViewer$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/tools/GameViewer$GameViewerActions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/tools/GameViewer$GameViewerView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/tools/GameViewer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/tools/MarioAIOptions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/tools/RandomCreatureGenerator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/tools/ReplayerOptions$Interval.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/tools/ReplayerOptions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/tools/Scale2x.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/tools/StateEncoderDecoder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/tools/ToolsConfigurator$INTERFACE_TYPE.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/tools/ToolsConfigurator$ToolsConfiguratorActions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/tools/ToolsConfigurator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/tools/amico/AmiCoJavaPy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/tools/punj/PunctualJudge.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/unittests/CmdLineOptionsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/unittests/LevelGeneratorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/unittests/LevelSceneTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/unittests/MarioAIBenchmarkTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/unittests/MarioEnvironmentTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/utils/ErrorCodes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/utils/MathX.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/utils/ParameterContainer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/utils/statistics/StatisticalSummary$Watch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/utils/statistics/StatisticalSummary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/utils/statistics/StatisticalTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/utils/statistics/Stats.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/utils/wox/serial/AccessTest$Sub.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/utils/wox/serial/AccessTest$Super.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/utils/wox/serial/AccessTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/utils/wox/serial/ArrayListTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/utils/wox/serial/Easy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/utils/wox/serial/EasyTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/utils/wox/serial/EncodeBase64.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/utils/wox/serial/ObjectReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/utils/wox/serial/ObjectWriter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/utils/wox/serial/ReadTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/utils/wox/serial/Serial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/utils/wox/serial/ShadowTest$X.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/utils/wox/serial/ShadowTest$Y.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/utils/wox/serial/ShadowTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/utils/wox/serial/SimpleReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/utils/wox/serial/SimpleWriter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/utils/wox/serial/TestObject$Inner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/utils/wox/serial/TestObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/utils/wox/serial/Util.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/ch/idsia/utils/wox/serial/WriterTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/competition/cig/sergeykarakovskiy/SergeyKarakovskiy_JumpingAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/competition/evostar/sergeykarakovskiy/SergeyKarakovskiy_JumpingAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/competition/gic2010/gameplay/sergeykarakovskiy/SergeyKarakovskiy_ForwardAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/competition/gic2010/learning/sergeykarakovskiy/SergeyKarakovskiy_MLPAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/competition/gic2010/turing/sergeykarakovskiy/SergeyKarakovskiy_ForwardAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/bin/MarioAI/competition/wcci/NikolaySohryakov/NikolaySohryakovAgent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/lib/asm-all-3.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/lib/jdom.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/lib/junit-4.8.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/amico/python/JavaPy/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/amico/python/JavaPy/Makefile.Darwin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/amico/python/JavaPy/Makefile.Linux" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/amico/python/JavaPy/Makefile.Win" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/amico/python/JavaPy/make.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/amico/python/JavaPy/run.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/amico/python/JavaPy/run.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/amico/python/JavaPy/src/AmiCoJavaPy.def" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/amico/python/JavaPy/src/arrayutils.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/amico/python/JavaPy/src/ch_idsia_tools_amico_AmiCoJavaPy.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/amico/python/JavaPy/src/ch_idsia_tools_amico_AmiCoJavaPy.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/amico/python/PyJava/AmiCoRunner.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/amico/python/PyJava/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/amico/python/PyJava/Makefile.Darwin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/amico/python/PyJava/Makefile.Linux" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/amico/python/PyJava/Makefile.Win" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/amico/python/PyJava/PythonCallsJava.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/amico/python/PyJava/make.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/amico/python/PyJava/run.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/amico/python/PyJava/run.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/amico/python/PyJava/src/AmiCoPyJava.def" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/amico/python/PyJava/src/PythonCallsJava.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/amico/python/PyJava/src/PythonCallsJava.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/amico/python/PyJava/src/arrayutils.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/amico/python/agents/DemoForwardAgent.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/amico/python/agents/DemoForwardJumpingAgent.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/amico/python/agents/evaluationinfo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/amico/python/agents/forwardagent.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/amico/python/agents/forwardjumpingagent.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/amico/python/agents/marioagent.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/agents/Agent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/agents/AgentLoader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/agents/AgentsPool.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/agents/AmiCoAgent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/agents/BasicLearningAgent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/agents/LearningAgent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/agents/MLPESLearningAgent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/agents/SRNESLearningAgent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/agents/SimpleAgent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/agents/controllers/BasicMarioAIAgent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/agents/controllers/ForwardAgent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/agents/controllers/ForwardJumpingAgent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/agents/controllers/RandomAgent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/agents/controllers/ReplayAgent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/agents/controllers/ScaredAgent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/agents/controllers/ScaredShooty.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/agents/controllers/TimingAgent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/agents/controllers/forwardagent.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/agents/controllers/human/CheaterKeyboardAgent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/agents/controllers/human/HumanKeyboardAgent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/agents/controllers/marioagent.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/agents/learning/LargeMLPAgent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/agents/learning/LargeSRNAgent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/agents/learning/MediumMLPAgent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/agents/learning/MediumSRNAgent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/agents/learning/SRNAgent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/agents/learning/SimpleMLPAgent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/agents/learning/SmallMLPAgent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/agents/learning/SmallSRNAgent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/agents/simplepythonagent.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/experiments/EpisodicExperiment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/experiments/Experiment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/engine/Art.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/engine/BgRenderer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/engine/GeneralizerEnemies.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/engine/GeneralizerLevelScene.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/engine/GlobalOptions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/engine/LevelRenderer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/engine/LevelScene.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/engine/MarioVisualComponent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/engine/Recorder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/engine/Replayer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/engine/level/BgLevelGenerator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/engine/level/ImprovedNoise.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/engine/level/Level.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/engine/level/LevelGenerator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/engine/level/SpriteTemplate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/engine/mapedit/LevelEditView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/engine/mapedit/LevelEditor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/engine/mapedit/TilePicker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/engine/resources/bgsheet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/engine/resources/endscene.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/engine/resources/enemysheet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/engine/resources/firemariosheet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/engine/resources/font.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/engine/resources/itemsheet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/engine/resources/logo.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/engine/resources/mapsheet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/engine/resources/mariosheet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/engine/resources/particlesheet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/engine/resources/princess.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/engine/resources/racoonmariosheet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/engine/resources/smallmariosheet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/engine/resources/test.lvl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/engine/resources/tiles.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/engine/resources/worldmap.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/engine/sprites/BulletBill.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/engine/sprites/CoinAnim.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/engine/sprites/Enemy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/engine/sprites/FireFlower.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/engine/sprites/Fireball.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/engine/sprites/FlowerEnemy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/engine/sprites/GreenMushroom.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/engine/sprites/Mario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/engine/sprites/Mushroom.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/engine/sprites/Particle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/engine/sprites/Princess.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/engine/sprites/Shell.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/engine/sprites/Sparkle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/engine/sprites/Sprite.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/engine/sprites/SpriteContext.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/engine/sprites/WaveGoomba.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/environments/Environment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/environments/MarioEnvironment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/simulation/AmiCoSimulator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/mario/simulation/SimulationOptions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/tasks/BasicTask.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/tasks/GamePlayTask.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/tasks/LearningTask.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/tasks/MarioCustomSystemOfValues.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/tasks/MarioSystemOfValues.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/tasks/MultiDifficultyProgressTask.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/tasks/MultiSeedProgressTask.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/tasks/MushroomTask.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/tasks/ProgressTask.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/tasks/ReplayTask.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/tasks/SystemOfValues.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/benchmark/tasks/Task.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/evolution/EA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/evolution/Evolvable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/evolution/FA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/evolution/MLP.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/evolution/SRN.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/evolution/ea/ES.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/scenarios/Custom.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/scenarios/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/scenarios/Play.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/scenarios/Replay.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/scenarios/champ/GamePlayTrack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/scenarios/champ/LearningTrack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/scenarios/champ/TuringTestTrack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/scenarios/oldscenarios/CompetitionScore.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/scenarios/oldscenarios/Evolve.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/scenarios/oldscenarios/EvolveIncrementally.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/scenarios/oldscenarios/EvolveMultiSeed.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/scenarios/oldscenarios/GeneralScenario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/scenarios/oldscenarios/MainRun.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/scenarios/oldscenarios/Stats.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/scenarios/test/EvaluateJLink.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/scenarios/test/EvolveSingle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/scenarios/test/EvolveWithChangingSeeds.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/scenarios/test/PaperEvolve.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/scenarios/test/PaperEvolveBatch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/scenarios/test/PlayJLink.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/scenarios/test/StatsJLink.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/scenarios/test/StochasticityTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/tools/EvaluationInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/tools/EvaluationInfoStatisticalSummary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/tools/Evaluator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/tools/GameViewer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/tools/MarioAIOptions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/tools/RandomCreatureGenerator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/tools/ReplayerOptions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/tools/Scale2x.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/tools/StateEncoderDecoder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/tools/ToolsConfigurator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/tools/amico/AmiCoJavaPy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/tools/punj/PunctualJudge.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/unittests/CmdLineOptionsTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/unittests/LevelGeneratorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/unittests/LevelSceneTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/unittests/MarioAIBenchmarkTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/unittests/MarioEnvironmentTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/utils/ErrorCodes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/utils/MathX.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/utils/ParameterContainer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/utils/statistics/StatisticalSummary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/utils/statistics/StatisticalTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/utils/statistics/Stats.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/utils/wox/serial/AccessTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/utils/wox/serial/ArrayListTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/utils/wox/serial/Easy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/utils/wox/serial/EasyTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/utils/wox/serial/EncodeBase64.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/utils/wox/serial/ObjectReader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/utils/wox/serial/ObjectWriter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/utils/wox/serial/ReadTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/utils/wox/serial/Serial.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/utils/wox/serial/ShadowTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/utils/wox/serial/SimpleReader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/utils/wox/serial/SimpleWriter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/utils/wox/serial/TestObject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/utils/wox/serial/Util.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/ch/idsia/utils/wox/serial/WriterTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/competition/cig/sergeykarakovskiy/SergeyKarakovskiy_JumpingAgent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/competition/evostar/sergeykarakovskiy/SergeyKarakovskiy_JumpingAgent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/competition/gic2010/gameplay/sergeykarakovskiy/SergeyKarakovskiy_ForwardAgent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/competition/gic2010/learning/sergeykarakovskiy/SergeyKarakovskiy_MLPAgent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/competition/gic2010/turing/sergeykarakovskiy/SergeyKarakovskiy_ForwardAgent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/src/competition/wcci/NikolaySohryakov/NikolaySohryakovAgent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/target/scripts/catResults.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/target/scripts/game-play-track-evaluation.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/target/scripts/learning-track-evaluation.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/target/scripts/runClient.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/target/scripts/runExperiments.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/target/scripts/runServer.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarioAI/target/scripts/turing-test-track-evaluation.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/A4/A4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/A4/A4ending.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/A4/A4game.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/A4/A4instructions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/A4/A4title.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/A4/AI.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/A4/AICharacter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/A4/AIConversation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/A4/AIDefaultBehaviors.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/A4/characters.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/A4/emulogic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/A4/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/A4/maps.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/A4/menu.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/A4/objects.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/A4/players.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/A4/scripts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/A4/tiles.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/games/aventura4/abblegard.tmx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/games/aventura4/aventura4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/games/aventura4/blackrock.tmx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/games/aventura4/blackrockbasement.tmx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/games/aventura4/blackrockentrance.tmx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/games/aventura4/blackrockgranner.tmx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/games/aventura4/blackrocktower.tmx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/games/aventura4/blozardtower1.tmx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/games/aventura4/blozardtower2.tmx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/games/aventura4/blozardtower3.tmx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/games/aventura4/blozardtower4.tmx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/games/aventura4/blozardtower5.tmx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/games/aventura4/castle.tmx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/games/aventura4/enemies.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/games/aventura4/forest.tmx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/games/aventura4/graphics2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/games/aventura4/inn.tmx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/games/aventura4/library.tmx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/games/aventura4/northsea.tmx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/games/aventura4/npcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/games/aventura4/objects.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/games/aventura4/players.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/games/aventura4/sea.tmx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/games/aventura4/shop1.tmx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/games/aventura4/shop2.tmx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/games/aventura4/title.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/games/example/example.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/games/example/graphics2x-basic.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/games/example/graphics2x-characters.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/games/example/graphics2x-walls.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/games/example/map.tmx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/games/example/objects.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/games/example/players.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/games/example/pressureplate.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project 5/A4Engine1.2.2/A4Engine1.2.2/games/example/push.wav" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehaviorTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/agents/controllers/behavior/Actions/Jump.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/agents/controllers/behavior/Actions/MoveRight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/agents/controllers/behavior/Actions/Shoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/agents/controllers/behavior/Actions/Sprint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/agents/controllers/behavior/Actions/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/agents/controllers/behavior/Composites/Composite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/agents/controllers/behavior/Composites/Selector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/agents/controllers/behavior/Composites/Sequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/agents/controllers/behavior/Conditions/IsCoinAbove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/agents/controllers/behavior/Conditions/IsEnemyAhead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/agents/controllers/behavior/Conditions/IsHoleAhead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/agents/controllers/behavior/Conditions/IsMysteryBoxAbove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/agents/controllers/behavior/Conditions/IsObstacleAhead.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/agents/BTMarioAgent.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -652,12 +32,18 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/lib/marioAI-1.84.jar!/src/main/java/ch/idsia/ai/agents/Agent.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$PROJECT_DIR$/lib/marioAI-1.84.jar!/src/main/java/de/novatec/marioai/tools/MarioAiAgent.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$PROJECT_DIR$/lib/marioAI-1.84.jar!/src/main/java/de/novatec/marioai/tools/MarioAiRunnerBuilder.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -679,9 +65,28 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\antho\Dropbox\Drexel Assignments\2021\2021_4_SUMMER\CS387\AI-for-Games-Playground\Project 3\MarioAI\src\agents\controllers\behavior" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="MarioAI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="agents.BTMarioAgent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="agents.BTMarioAgent" />
+      <module name="MarioAI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="agents.Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="agents.Demo" />
       <module name="MarioAI" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -689,7 +94,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.agents.BTMarioAgent" />
+        <item itemvalue="Application.agents.Demo" />
       </list>
     </recent_temporary>
   </component>
