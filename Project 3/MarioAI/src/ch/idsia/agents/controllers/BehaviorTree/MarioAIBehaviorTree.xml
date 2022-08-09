@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Sequence>
+    <Sequence>
+        <!--    MoveRightAndJump-->
+        <Sequence>
+            <Action>MoveRight</Action>
+                <Selector>
+                    <!--    EnemyKiller-->
+                    <Sequence>
+                        <Condition>IsEnemyAhead</Condition>
+                        <Condition>CanShoot</Condition>
+                        <Action>Shoot</Action>
+                        <Action>Jump</Action>
+                        <Action>MoveDown</Action>
+                    </Sequence>
+<!--                    DangerAvoider-->
+                    <Sequence>
+                        <Selector>
+                            <Condition>IsEnemyAhead</Condition>
+                            <Condition>IsObstacleAhead</Condition>
+                            <Condition>IsHoleAhead</Condition>
+                            <Condition>IsCoinAbove</Condition>
+                            <Condition>IsMysteryBoxAbove</Condition>
+                            <Action>Sprint</Action>
+                        </Selector>
+                        <Action>Jump</Action>
+                    </Sequence>
+                </Selector>
+            <Action>Jump</Action>
+        </Sequence>
+    </Sequence>
+</Sequence>
+
+
