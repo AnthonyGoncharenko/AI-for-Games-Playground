@@ -5,46 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ddce5e3-912b-4f1b-8316-05d777c6ba14" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../MarioAI/src/agents/controllers/behavior/Actions/MoveDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MarioAI/src/agents/controllers/behavior/Actions/MoveLeft.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MarioAI/src/agents/controllers/behavior/Actions/Walk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MarioAI/src/agents/controllers/behavior/Conditions/InAir.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MarioAI/src/agents/controllers/behavior/Conditions/IsCarrying.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/testng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MarioAI.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch/idsia/agents/controllers/BasicMarioAIAgent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch/idsia/agents/controllers/BehaviorTree/Actions/Jump.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch/idsia/agents/controllers/BehaviorTree/Actions/MoveDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch/idsia/agents/controllers/BehaviorTree/Actions/MoveLeft.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch/idsia/agents/controllers/BehaviorTree/Actions/MoveRight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch/idsia/agents/controllers/BehaviorTree/Actions/Shoot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch/idsia/agents/controllers/BehaviorTree/Actions/Sprint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch/idsia/agents/controllers/BehaviorTree/Actions/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch/idsia/agents/controllers/BehaviorTree/Actions/Walk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch/idsia/agents/controllers/BehaviorTree/BehaviorTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch/idsia/agents/controllers/BehaviorTree/BehaviorTreeAgent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch/idsia/agents/controllers/BehaviorTree/Composites/Composite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch/idsia/agents/controllers/BehaviorTree/Composites/Selector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch/idsia/agents/controllers/BehaviorTree/Composites/Sequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch/idsia/agents/controllers/BehaviorTree/Conditions/CanShoot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch/idsia/agents/controllers/BehaviorTree/Conditions/InAir.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch/idsia/agents/controllers/BehaviorTree/Conditions/IsCarrying.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch/idsia/agents/controllers/BehaviorTree/Conditions/IsCoinAbove.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch/idsia/agents/controllers/BehaviorTree/Conditions/IsEnemyAhead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch/idsia/agents/controllers/BehaviorTree/Conditions/IsHoleAhead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch/idsia/agents/controllers/BehaviorTree/Conditions/IsMysteryBoxAbove.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch/idsia/agents/controllers/BehaviorTree/Conditions/IsObstacleAhead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch/idsia/agents/controllers/BehaviorTree/MarioAIBehaviorTree.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch/idsia/agents/controllers/BehaviorTree/TaskFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch/idsia/scenarios/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MarioAI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../MarioAI/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MarioAI/src/BehaviorTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MarioAI/src/BehaviorTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../MarioAI/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MarioAI/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -70,22 +31,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "true",
-    "Repository.Attach.Annotations": "true",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/antho/Dropbox/Drexel Assignments/2021/2021_4_SUMMER/CS387/AI-for-Games-Playground/Project 3/MarioAI_2/MarioAI/src/ch/idsia/agents/controllers/BehaviorTree",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/antho/Dropbox/Drexel Assignments/2021/2021_4_SUMMER/CS387/AI-for-Games-Playground/Project 3/MarioAI_2/MarioAI/src/ch/idsia/agents/controllers/BehaviorTree&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\antho\Dropbox\Drexel Assignments\2021\2021_4_SUMMER\CS387\AI-for-Games-Playground\Project 3\MarioAI_2\MarioAI\src\ch\idsia\agents\controllers\BehaviorTree" />
