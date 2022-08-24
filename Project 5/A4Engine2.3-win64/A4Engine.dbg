@@ -23,7 +23,7 @@ resetOpenGLState complete
 done.
 A4EngineApp created.
 graphic file not found... graphics.png
-GLTManager::getImage OK: 0000026782C5DDD8 - 000002678ABE77F0
+GLTManager::getImage OK: 000002963DAFCD78 - 000002963B349F10
 GraphicFile created 370 tiles (10 x 37)
 loading A4Map.. games/example/map.xml
 Spawning player Warrior at 224,288 in map 0

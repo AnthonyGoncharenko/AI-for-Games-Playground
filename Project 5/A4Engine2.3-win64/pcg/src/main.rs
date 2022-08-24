@@ -43,17 +43,17 @@ pub fn generate_map() -> (i32, i32, [[Objects; 17]; 17]) {
 
     let mut g = graph::Graph::new(WIDTH as i32, HEIGHT as i32);
 
-    for edge in g.kruskal().into_sorted_iter() {
-        let row1: i32 = 2 * (*edge.0.start() / WIDTH as i32) + 1;
-        let col1: i32 = 2 * (*edge.0.start() % WIDTH as i32) + 1;
+    for edge in g.kruskal().into_sorted_vec().into_iter().rev() {
+        let row1: i32 = 2 * (*edge.start() / WIDTH as i32) + 1;
+        let col1: i32 = 2 * (*edge.start() % WIDTH as i32) + 1;
 
         if start_x == -1 {
             start_x = col1;
             start_y = row1;
         }
 
-        let row2: i32 = 2 * (*edge.0.end() / WIDTH as i32) + 1;
-        let col2: i32 = 2 * (*edge.0.end() % WIDTH as i32) + 1;
+        let row2: i32 = 2 * (*edge.end() / WIDTH as i32) + 1;
+        let col2: i32 = 2 * (*edge.end() % WIDTH as i32) + 1;
 
         if col2 > col1 {
             map[row1 as usize][(col1 + 1) as usize] = Objects::LANDTILE;
