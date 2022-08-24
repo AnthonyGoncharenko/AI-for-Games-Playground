@@ -2,7 +2,7 @@ use crate::edge::Edge;
 use derive_getters::Getters;
 use priority_queue::PriorityQueue;
 
-#[derive(Getters)]
+#[derive(Getters, Debug)]
 pub struct Graph {
     width: i32,
     height: i32,
@@ -11,7 +11,7 @@ pub struct Graph {
 }
 
 impl Graph {
-    fn new(width: i32, height: i32) -> Graph {
+    pub fn new(width: i32, height: i32) -> Graph {
         Graph {
             width,
             height,
@@ -40,7 +40,7 @@ impl Graph {
         }
     }
 
-    fn kruskal(&mut self) -> PriorityQueue<&Edge, &i32> {
+    pub fn kruskal(&mut self) -> PriorityQueue<&Edge, &i32> {
         self.populate_edges();
         let mut p_edges: PriorityQueue<&Edge, &i32> = PriorityQueue::new();
 
@@ -52,14 +52,12 @@ impl Graph {
         let mut parents: Vec<i32> = (0..self.num_vertices).collect();
 
         loop {
-            if p_edges.is_empty() && mst.len() < self.num_vertices as usize - 1 {
+            if p_edges.is_empty() || mst.len() >= self.num_vertices as usize - 1 {
                 break;
             }
             if let Some(e) = p_edges.pop() {
-                let start = *e.0.start();
-                let end = *e.0.end();
-                let set_1: i32 = Self::find(&parents, start);
-                let set_2: i32 = Self::find(&parents, end);
+                let set_1: i32 = Self::find(&parents, e.0.start());
+                let set_2: i32 = Self::find(&parents, e.0.end());
 
                 if set_1 != set_2 {
                     mst.push(e.0, e.1);
@@ -70,17 +68,17 @@ impl Graph {
         mst
     }
 
-    fn find(parent: &Vec<i32>, vertex: i32) -> i32 {
-        if parent[vertex as usize] != vertex {
-            Self::find(parent, parent[vertex as usize])
+    fn find(parent: &Vec<i32>, vertex: &i32) -> i32 {
+        if parent[*vertex as usize] != *vertex {
+            Self::find(parent, &parent[*vertex as usize])
         } else {
-            vertex
+            *vertex
         }
     }
 
     fn union(parent: &mut Vec<i32>, set_1: i32, set_2: i32) -> () {
-        let idx = Self::find(&parent, set_2) as usize;
-        let jdx = Self::find(&parent, set_1);
+        let idx = Self::find(&parent, &set_2) as usize;
+        let jdx = Self::find(&parent, &set_1);
         parent[idx] = jdx
     }
 }

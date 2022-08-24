@@ -1,9 +1,9 @@
-use std::{cmp::Ordering, fmt};
+use std::cmp::Ordering;
 
 use derive_getters::Getters;
 use rand::Rng;
 
-#[derive(Getters, Hash, Eq, PartialOrd, PartialEq, Clone)]
+#[derive(Getters, Hash, Eq, PartialOrd, PartialEq, Clone, Debug)]
 pub struct Edge {
     start: i32,
     end: i32,
@@ -17,14 +17,6 @@ impl Edge {
             end,
             weight: rand::thread_rng().gen_range(1..=10),
         }
-    }
-    pub fn repr(&self) -> String {
-        fmt::format(format_args!(
-            "start: {}, end: {}, weight: {}",
-            self.start(),
-            self.end(),
-            self.weight()
-        ))
     }
 }
 impl Ord for Edge {
