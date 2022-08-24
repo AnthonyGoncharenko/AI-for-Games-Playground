@@ -2,15 +2,13 @@ use std::env::current_dir;
 use xmlwriter::*;
 
 use crate::objects::Objects;
-use derive_getters::Getters;
 use regex::Regex;
-#[derive(Getters)]
 pub struct PCG {}
 
 impl PCG {
     pub fn write_to_file(start_x: i32, start_y: i32, map: &[[Objects; 17]; 17]) -> () {
         let opt = Options {
-            use_single_quote: true,
+            use_single_quote: false,
             ..Options::default()
         };
         let mut xml_writer = XmlWriter::new(opt);
@@ -22,7 +20,7 @@ impl PCG {
             .unwrap()
             .join("games")
             .join("example");
-        path.push("P5.tmx");
+        path.push("map.xml");
 
         let p = std::path::Path::new(&path)
             .with_file_name("example.xml")

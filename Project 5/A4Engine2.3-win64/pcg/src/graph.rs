@@ -1,8 +1,6 @@
 use crate::edge::Edge;
-use derive_getters::Getters;
 use priority_queue::PriorityQueue;
 
-#[derive(Getters, Debug)]
 pub struct Graph {
     width: i32,
     height: i32,
@@ -44,7 +42,7 @@ impl Graph {
         self.populate_edges();
         let mut p_edges: PriorityQueue<&Edge, &i32> = PriorityQueue::new();
 
-        for edge in self.edges() {
+        for edge in &self.edges {
             p_edges.push(edge, edge.weight());
         }
 

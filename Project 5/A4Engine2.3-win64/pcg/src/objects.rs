@@ -1,4 +1,4 @@
-use std::fmt::{self};
+use std::fmt;
 
 #[derive(Copy, Clone, Debug)]
 pub enum Objects {

@@ -3,7 +3,7 @@ use std::cmp::Ordering;
 use derive_getters::Getters;
 use rand::Rng;
 
-#[derive(Getters, Hash, Eq, PartialOrd, PartialEq, Clone, Debug)]
+#[derive(Getters, Hash, Eq, PartialOrd, PartialEq, Clone)]
 pub struct Edge {
     start: i32,
     end: i32,

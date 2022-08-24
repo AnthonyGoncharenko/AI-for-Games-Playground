@@ -151,7 +151,7 @@
 
 	<characterDefinition file="players.xml" />
 
-	<map file="P5.tmx" />
+	<map file="map.xml" />
 
 	<player class="Warrior" x="224" y="288" map="0" />
 
