@@ -28,11 +28,10 @@ impl Graph {
                 if i != self.width - 1 {
                     let down = (i + 1) * self.width + j;
                     self.edges.push(Edge::new(curr, down));
-
-                    if j != self.height - 1 {
-                        let right = i * self.width + j + 1;
-                        self.edges.push(Edge::new(curr, right));
-                    }
+                }
+                if j != self.height - 1 {
+                    let right = i * self.width + j + 1;
+                    self.edges.push(Edge::new(curr, right));
                 }
             }
         }
